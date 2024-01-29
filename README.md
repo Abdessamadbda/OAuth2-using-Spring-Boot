@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to OAuth2 using Spring Boot 👋</h1>
+<h1 align="center">OAuth2 using Spring Boot 👋</h1>
 <p>
 </p>
 
@@ -6,7 +6,10 @@
 
 ### 🏠 ![Homepage](https://abdessamadbda.github.io/readmeRessources/homepage.png)
 
-### ✨ ![Demo](https://abdessamadbda.github.io/readmeRessources/demo.mp4)
+### ✨ ![Demo]<video width="320" height="240" controls>
+  <source src="https://abdessamadbda.github.io/readmeRessources/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Author
 
