@@ -4,8 +4,7 @@
 
 > This Spring Boot application is an OAuth2-enabled web service providing user authentication through GitHub and Google. The application utilizes Spring Security for handling security configurations and OAuth2Login for integrating with the specified authentication providers.
 
-### 🏠 [Homepage]
-https://abdessamadbda.github.io/readmeRessources/homepage.png
+### 🏠 ![Homepage](https://abdessamadbda.github.io/readmeRessources/homepage.png)
 
 ### ✨ [Demo](C:\Users\X270\Documents\ShareX\Screenshots\2024-01\demo.mp4)
 
