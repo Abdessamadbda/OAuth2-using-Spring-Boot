@@ -6,7 +6,7 @@
 
 ### 🏠 ![Homepage](https://abdessamadbda.github.io/readmeRessources/homepage.png)
 
-### ✨ [Demo](C:\Users\X270\Documents\ShareX\Screenshots\2024-01\demo.mp4)
+### ✨ ![Demo](https://abdessamadbda.github.io/readmeRessources/demo.mp4)
 
 ## Author
 
